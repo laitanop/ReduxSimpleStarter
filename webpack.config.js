@@ -23,4 +23,8 @@ module.exports = {
     historyApiFallback: true,
     contentBase: './'
   }
+<<<<<<< HEAD
 };
+=======
+};
+>>>>>>> agregando
